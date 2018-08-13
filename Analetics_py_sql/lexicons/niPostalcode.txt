@@ -1,0 +1,417 @@
+Postal code;City Name
+BT51;Aghadowey
+BT67;Aghagallon
+BT67;Aghalee
+BT81;Aghyaran
+BT29;Aldergrove
+BT11;Andersonstown
+BT32;Annaclone
+BT25;Annahilt
+BT34;Annalong
+BT41;Antrim
+BT15;Antrim Road
+BT71;Ardboe
+BT30;Ardglass
+BT22;Ardkeen
+BT60;Armagh
+BT61;Armagh
+BT53;Armoy
+BT51;Articlave
+BT82;Artigarvan
+BT77;Augher
+BT69;Aughnacloy
+BT13;Ballgomartin
+BT94;Ballinamallard
+BT32;Ballinaskeagh
+BT28;Ballinderry
+BT28;Ballinderry Lower
+BT28;Ballinderry Upper
+BT54;Ballintoy
+BT53;Ballybogy
+BT38;Ballycarry
+BT54;Ballycastle
+BT39;Ballyclare
+BT40;Ballygally
+BT70;Ballygawley
+BT22;Ballyhalbert
+BT30;Ballyhornan
+BT49;Ballykelly
+BT30;Ballykinler
+BT82;Ballymagorry
+BT34;Ballymartin
+BT42;Ballymena
+BT43;Ballymena
+BT44;Ballymena
+BT53;Ballymoney
+BT48;Ballynagard
+BT24;Ballynahinch
+BT39;Ballynure
+BT54;Ballypatrick
+BT45;Ballyronan
+BT32;Ballyroney
+BT14;Ballysillan
+BT14;Ballysillan Upper
+BT52;Ballyvelton
+BT54;Ballyvoy
+BT22;Ballywalter
+BT31;Ballyward
+BT32;Banbridge
+BT19;Bangor
+BT20;Bangor
+BT60;Belcoo
+BT8;Belfast
+BT9;Belfast
+BT4;Belfast
+BT5;Belfast
+BT1;Belfast
+BT10;Belfast
+BT11;Belfast
+BT12;Belfast
+BT13;Belfast
+BT6;Belfast
+BT14;Belfast
+BT15;Belfast
+BT16;Belfast
+BT17;Belfast
+BT2;Belfast
+BT7;Belfast
+BT29;Belfast
+BT3;Belfast
+BT3;Belfast City Airport
+BT2;Belfast City Center South
+BT4;Belfast East
+BT5;Belfast East
+BT3;Belfast Harbour Estate
+BT29;Belfast International Airport
+BT13;Belfast North
+BT15;Belfast North
+BT8;Belfast South
+BT12;Belfast South
+BT7;Belfast South
+BT6;Belfast South East
+BT11;Belfast West
+BT12;Belfast West
+BT13;Belfast West
+BT45;Bellaghy
+BT51;Bellany
+BT35;Belleek
+BT93;Belleek
+BT4;Belmont
+BT71;Benburb
+BT35;Bessbrook
+BT51;Blackhill
+BT71;Blackwatertown
+BT74;Boho
+BT7;Botanic
+BT5;Braniel
+BT82;Bready
+BT94;Brookeborough
+BT42;Broughshane
+BT65;Brownlow
+BT33;Bryansford
+BT71;Bush
+BT57;Bushmills
+BT34;Cabra
+BT68;Caledon
+BT35;Camlough
+BT44;Camlough
+BT54;Cape Castle
+BT70;Cappagh
+BT27;Cargacreevy
+BT43;Cargan
+BT69;Carnteel
+BT38;Carrickfergus
+BT22;Carrowdore
+BT8;Carryduff
+BT57;Castlecatt
+BT70;Castlecaulfield
+BT45;Castledawson
+BT81;Castlederg
+BT5 BT6;Castlereagh
+BT51;Castlerock
+BT51;Castleroe
+BT30;Castleward
+BT31;Castlewellan
+BT58;Child Support Agency
+BT48;Cityside
+BT75;Clabby
+BT82;Clady
+BT81;Clare
+BT62;Clare
+BT47;Claudy
+BT44;Clogh Mills
+BT76;Clogher
+BT30;Clough
+BT22;Cloughey
+BT52;Cloyfin
+BT80;Coagh
+BT71;Coalisland
+BT51;Coleraine
+BT52;Coleraine
+BT61;Collone
+BT80;Cookstown
+BT32;Corbet
+BT48;Coshquin
+BT56;Craigahullier
+BT18;Craigavad
+BT62;Craigavon
+BT63;Craigavon
+BT64;Craigavon
+BT65;Craigavon
+BT66;Craigavon
+BT67;Craigavon
+BT19;Crawfordsburn
+BT6;Cregagh
+BT30;Crossgar
+BT35;Crossmaglen
+BT5;Crossnacreevy
+BT29;Crumlin
+BT14;Crumlin Road
+BT25;Culcavy
+BT42;Cullybackey
+BT48;Culmore
+BT44;Cushendall
+BT44;Cushendun
+BT60;Darkley
+BT17;Derriaghy
+BT47;Derry
+BT66;Derryadd
+BT93;Derrygonnelly
+BT92;Derrylin
+BT66;Derrytrasna
+BT53;Dervock
+BT45;Desertmartin
+BT39;Doagh
+BT66;Dollingstown
+BT21;Donaghadee
+BT66;Donaghcloney
+BT70;Donaghmore
+BT82;Douglas Bridge
+BT30;Downpatrick
+BT45;Draperstown
+BT25;Dromara
+BT78;Dromore
+BT25;Dromore
+BT27;Drumalig
+BT24;Drumaness
+BT27;Drumbo
+BT65;Drumgor
+BT79;Drumlea
+BT78;Drumquin
+BT41;Dunadry
+BT82;Dunamanagh
+BT16;Dundonald
+BT33;Dundrum
+BT70;Dungannon
+BT71;Dungannon
+BT47;Dungiven
+BT44;Dunloy
+BT17;Dunmurry
+BT29;Dunrod
+BT57;Dunseverick
+BT47;Eglinton
+BT92;Enniskillen
+BT93;Enniskillen
+BT94;Enniskillen
+BT74;Enniskillen
+BT78;Eskra
+BT45;Fallaghloon
+BT45;Fallalea
+BT47;Feeny
+BT10;Finaghy
+BT25;Finnis
+BT78;Fintona
+BT75;Fivemiletown
+BT92;Florencecourt
+BT8;Four Winds
+BT70;Galbally
+BT42;Galgorm
+BT93;Garrison
+BT51;Garvagh
+BT70;Garvaghy
+BT81;Garvetagh
+BT67;Gawley's Gate
+BT5;Gilnahirk
+BT44;Glarryford
+BT44;Glenariff
+BT29;Glenavy
+BT13;Glencairn
+BT79;Glengawna
+BT36;Glengormley
+BT40;Gleno
+BT54;Glenshesk
+BT40;Glynn
+BT79;Gortin
+BT38;Greenisland
+BT22;Greyabbey
+BT19;Groomsport
+BT61;Hamiltonsbawn
+BT17;Hannahstown
+BT19;Helens Bay
+BT13;Highfield
+BT27;Hilden
+BT27;Hillhall
+BT26;Hillsborough
+BT34;Hilltown
+BT18;Holywood
+BT94;Irvinestown
+BT40;Islandmagee
+BT35;Jerrettspass
+BT32;Katesbridge
+BT60;Keady
+BT42;Kells
+BT93;Kesh
+BT30;Kilclief
+BT34;Kilcoo
+BT34;Kilkeel
+BT30;Killard
+BT81;Killen
+BT81;Killeter
+BT30;Killough
+BT71;Killycolpy
+BT60;Killylea
+BT30;Killyleagh
+BT78;Killynure
+BT61;Kilmore
+BT51;Kilrea
+BT38;Kilroot
+BT40;Kilwaughter
+BT60;Kingsmills
+BT22;Kircubbin
+BT5;Knock
+BT43;Knockanully
+BT8;Knockbreda
+BT6;Knockbreda
+BT45;Knockloughrim
+BT64;Knockmenagh
+BT27;Lambeg
+BT40;Larne
+BT63;Laurencetown
+BT45;Lavey
+BT65;Legaghory
+BT32;Lenaderg
+BT49;Limavady
+BT94;Lisbellaw
+BT27 BT28;Lisburn
+BT17;Lisburn City
+BT46;Lisnamuck
+BT92;Lisnaskea
+BT47;Londonderry
+BT48;Londonderry
+BT32;Loughbrickland
+BT61;Loughgall
+BT44;Loughguile
+BT30;Loughinisland
+BT66;Lurgan
+BT51;Macosquin
+BT46;Maghera
+BT45;Magherafelt
+BT67;Magheralin
+BT40;Magheramorne
+BT54;Maghercashel
+BT54;Maghernahar
+BT94;Maguiresbridge
+BT9;Malone
+BT64;Mandeville
+BT60;Markethill
+BT34;Mayobridge
+BT60;Middletown
+BT40;Millbrook
+BT22;Millisle
+BT67;Moira
+BT45;Moneymore
+BT36;Mossley
+BT79;Mountfield
+BT81;Mournebeg
+BT54;Moyarget
+BT71;Moygashel
+BT41;Muckamore
+BT47;New Buildings
+BT33;Newcastle
+BT34;Newry
+BT35;Newry
+BT36;Newtownabbey
+BT37;Newtownabbey
+BT22;Newtownards
+BT23;Newtownards
+BT8;Newtownbreda
+BT92;Newtownbutler
+BT35;Newtownhamilton
+BT78;Newtownstewart
+BT29;Nutts Corner
+BT78;Omagh
+BT79;Omagh
+BT7;Ormeau
+BT47;Park
+BT39;Parkgate
+BT79;Plumbridge
+BT70;Pomeroy
+BT62;Portadown
+BT63;Portadown
+BT22;Portaferry
+BT22;Portavogie
+BT57;Portballintrae
+BT44;Portglenone
+BT56;Portrush
+BT55;Portstewart
+BT34;Poyntzpass
+BT41;Randalstown
+BT44;Rasharkin
+BT34;Rathfriland
+BT54;Rathlin Island
+BT61;Richhill
+BT51;Ringsend
+BT70;Rock
+BT48;Rosemount
+BT79;Rosnamuck
+BT34;Rostrevor
+BT24;Saintfield
+BT12;Sandy Row
+BT63;Scarva
+BT62;Scotch Street
+BT81;Scraghey
+BT30;Seaforde
+BT32;Seapatrick
+BT78;Seskanore
+BT70;Seskilgreen
+BT13;Shankill Road
+BT79;Sheskinshule
+BT82;Sion Mills
+BT79;Sixmilecross
+BT81;Spamount
+BT13;Springmartin
+BT71;Stewartstown
+BT28;Stoneyford
+BT4;Stormont
+BT82;Strabane
+BT39;Straid
+BT30;Strangford
+BT9;Stranmillis
+BT46;Swatragh
+BT4;Sydenham
+BT62;Tandragee
+BT9;Taughmonagh
+BT39;Templepatrick
+BT94;Tempo
+BT48;The Collon
+BT12;The Village
+BT45;Tobermore
+BT41;Toomebridge
+BT54;Torr
+BT30;Toye
+BT78;Trillick
+BT65;Tullygally
+BT80;Tullyhogue
+BT60;Tynan
+BT7;University
+BT46;Upperlands
+BT56;Urbalreagh
+BT82;Victoria Bridge
+BT25;Waringsford
+BT66;Waringstown
+BT34;Warrenpoint
+BT44;Waterfoot
+BT47;Waterside
+BT38;Whitehead
+BT6;Woodstock
+BT13;Woodvale

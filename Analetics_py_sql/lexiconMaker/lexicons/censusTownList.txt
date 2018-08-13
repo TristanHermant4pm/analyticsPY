@@ -1,0 +1,846 @@
+Dublin;County Dublin|Dublin 
+Cork;County Cork|Cork 
+Galway;County Galway|Galway 
+Limerick;County Limerick|Limerick;County Clare|Clare 
+Waterford;County Waterford|Waterford;County Kilkenny|Kilkenny 
+Drogheda;County Louth|Louth;County Meath|Meath 
+Wexford;County Wexford|Wexford 
+Sligo;County Sligo|Sligo 
+Clonmel;County Tipperary|Tipperary;County Waterford|Waterford 
+Kilkenny;County Kilkenny|Kilkenny 
+Dundalk;County Louth|Louth 
+Bray;County Wicklow|Wicklow;County Dublin|Dublin 
+Navan (An Uaimh);County Meath|Meath 
+Ennis;County Clare|Clare 
+Tralee;County Kerry|Kerry 
+Carlow;County Carlow|Carlow;County Laois|Laois 
+Naas;County Kildare|Kildare 
+Athlone;County Westmeath|Westmeath;County Roscommon|Roscommon 
+Letterkenny;County Donegal|Donegal 
+Tullamore;County Offaly|Offaly 
+Killarney;County Kerry|Kerry  
+Arklow;County Wicklow|Wicklow 
+Cobh;County Cork|Cork 
+Castlebar;County Mayo|Mayo 
+Midleton;County Cork|Cork 
+Mallow, County Cork|Mallow;County Cork|Cork 
+Ballina, County Mayo|Ballina;County Mayo|Mayo 
+Enniscorthy;County Wexford|Wexford 
+Wicklow;County Wicklow|Wicklow 
+Cavan;County Cavan|Cavan 
+Athy;County Kildare|Kildare 
+Longford;County Longford|Longford 
+Dungarvan;County Waterford|Waterford 
+Nenagh;County Tipperary|Tipperary 
+Trim, County Meath|Trim;County Meath|Meath 
+New Ross;County Wexford|Wexford;County Kilkenny|Kilkenny 
+Thurles;County Tipperary|Tipperary 
+Youghal;County Cork|Cork 
+Monaghan;County Monaghan|Monaghan 
+Buncrana;County Donegal|Donegal 
+Ballinasloe;County Galway|Galway;County Roscommon|Roscommon 
+Fermoy;County Cork|Cork 
+Westport, County Mayo|Westport;County Mayo|Mayo 
+Carrick-on-Suir;County Tipperary|Tipperary;County Waterford|Waterford 
+Kells, County Meath|Kells (Ceannanus Mor);County Meath|Meath 
+Birr, County Offaly|Birr;County Offaly|Offaly;County Tipperary|Tipperary 
+Tipperary (town)|Tipperary;County Tipperary|Tipperary 
+Carrickmacross;County Monaghan|Monaghan 
+Kinsale;County Cork|Cork 
+Listowel;County Kerry|Kerry 
+Clonakilty;County Cork|Cork 
+Cashel, County Tipperary|Cashel;County Tipperary|Tipperary 
+Macroom;County Cork|Cork 
+Castleblayney;County Monaghan|Monaghan 
+Kilrush;County Clare|Clare 
+Skibbereen;County Cork|Cork 
+Bundoran;County Donegal|Donegal 
+Templemore;County Tipperary|Tipperary  
+Clones, County Monaghan|Clones;County Monaghan|Monaghan  
+Newbridge, County Kildare|Newbridge (Droichead Nua);County Kildare|Kildare 
+Port Laoise (Portlaoise);County Laois|Laois 
+Mullingar;County Westmeath|Westmeath 
+Greystones;County Wicklow|Wicklow 
+Balbriggan;County Dublin|Dublin (Fingal) 
+Leixlip;County Kildare|Kildare 
+Tramore;County Waterford|Waterford 
+Shannon, County Clare|Shannon;County Clare|Clare 
+Gorey;County Wexford|Wexford 
+Tuam;County Galway|Galway 
+Edenderry;County Offaly|Offaly 
+Bandon, County Cork|Bandon;County Cork|Cork 
+Passage West;County Cork|Cork 
+Loughrea;County Galway|Galway 
+Ardee;County Louth|Louth 
+Mountmellick;County Laois|Laois 
+Bantry;County Cork|Cork 
+Muine Bheag (Muinebeag, Bagenalstown);County Carlow|Carlow 
+Boyle, County Roscommon|Boyle;County Roscommon|Roscommon 
+Ballyshannon;County Donegal|Donegal  
+Cootehill;County Cavan|Cavan 
+Ballybay;County Monaghan|Monaghan 
+Belturbet;County Cavan|Cavan 
+Lismore, County Waterford|Lismore;County Waterford|Waterford 
+Kilkee;County Clare|Clare;
+Granard;County Longford|Longford 
+Swords, Dublin|Swords;County Dublin|Dublin (Fingal) 
+Celbridge;County Kildare|Kildare 
+Malahide;County Dublin|Dublin (Fingal) 
+Maynooth;County Kildare|Kildare 
+Skerries, Dublin|Skerries;County Dublin|Dublin (Fingal) 
+Rush, Dublin|Rush;County Dublin|Dublin (Fingal) 
+Kildare;County Kildare|Kildare 
+Portarlington, County Laois|Portarlington;County Laois|Laois;County Offaly|Offaly 
+Roscrea;County Tipperary|Tipperary 
+Ballybofey-Stranorlar;County Donegal|Donegal 
+Carrick-on-Shannon;County Leitrim|Leitrim;County Roscommon|Roscommon 
+Tullow;County Carlow|Carlow 
+Athenry;County Galway|Galway 
+Monasterevin (Monasterevan);County Kildare|Kildare 
+Mitchelstown;County Cork|Cork 
+Charleville, County Cork|Charleville (Rathluirc);County Cork|Cork;County Limerick|Limerick 
+Cahir;County Tipperary|Tipperary 
+Claremorris;County Mayo|Mayo 
+Clara, County Offaly|Clara;County Offaly|Offaly 
+Moate;County Westmeath|Westmeath 
+Ballinrobe;County Mayo|Mayo 
+Gort;County Galway|Galway  
+Donegal;County Donegal|Donegal 
+Carndonagh;County Donegal|Donegal 
+Bailieborough;County Cavan|Cavan 
+Castleisland;County Kerry|Kerry 
+Blarney;County Cork|Cork 
+Ballyhaunis;County Mayo|Mayo 
+Thomastown;County Kilkenny|Kilkenny 
+Kanturk;County Cork|Cork 
+Kenmare;County Kerry|Kerry 
+Killorglin;County Kerry|Kerry 
+Clifden;County Galway|Galway 
+Abbeyfeale;County Limerick|Limerick 
+Castlerea;County Roscommon|Roscommon 
+Dingle (An Daingean);County Kerry|Kerry 
+Abbeyleix;County Laois|Laois 
+Ballaghaderreen;County Roscommon|Roscommon 
+Portlaw;County Waterford|Waterford 
+Mountrath;County Laois|Laois 
+Banagher;County Offaly|Offaly 
+Kilmallock;County Limerick|Limerick 
+Rathdrum, County Wicklow|Rathdrum;County Wicklow|Wicklow 
+Dunmanway;County Cork|Cork 
+Millstreet;County Cork|Cork 
+Graiguenamanagh-Tinnahinch, County Carlow|Tinnahinch (Graignamanagh);County Kilkenny|Kilkenny;County Carlow|Carlow 
+Moville;County Donegal|Donegal 
+Castlecomer-Donaguile;County Kilkenny|Kilkenny 
+Swinford (Swineford);County Mayo|Mayo 
+Ballybunion;County Kerry|Kerry 
+Killybegs;County Donegal|Donegal 
+Cahersiveen (Caherciveen, Cahirciveen, Cahirsiveen);County Kerry|Kerry 
+Ennistymon;County Clare|Clare 
+Carrigaline;County Cork|Cork 
+Ashbourne, County Meath|Ashbourne;County Meath|Meath 
+Laytown-Bettystown-Mornington, County Meath|Mornington;County Meath|Meath 
+Portmarnock;County Dublin|Dublin (Fingal) 
+Ratoath;County Meath|Meath 
+Lusk, Dublin|Lusk;County Dublin|Dublin (Fingal) 
+Dunboyne;County Meath|Meath 
+Donabate;County Dublin|Dublin (Fingal) 
+Clane;County Kildare|Kildare 
+Newcastle West;County Limerick|Limerick 
+Kinsealy-Drinan;County Dublin|Dublin (Fingal) 
+Roscommon;County Roscommon|Roscommon 
+Kilcock (Killcock);County Kildare|Kildare 
+Sallins;County Kildare|Kildare 
+Blessington;County Wicklow|Wicklow;County Kildare|Kildare 
+Oranmore;County Galway|Galway 
+Carrigtwohill (Carrigtohill);County Cork|Cork 
+Kilcoole;County Wicklow|Wicklow 
+Duleek;County Meath|Meath 
+Dunshaughlin;County Meath|Meath 
+Kilcullen;County Kildare|Kildare 
+Rathcoole, Dublin|Rathcoole;County Dublin|Dublin (South Dublin) 
+Tower, County Cork|Tower;County Cork|Cork 
+Stamullen;County Meath|Meath 
+Kill, County Kildare|Kill;County Kildare|Kildare 
+Rathnew;County Wicklow|Wicklow 
+Enfield, County Meath|Enfield;County Meath|Meath 
+Courtown Harbour (Courtown, Ballinatray);County Wexford|Wexford 
+Annacotty;County Limerick|Limerick 
+Kinnegad;County Westmeath|Westmeath 
+Newcastle, County Dublin|Newcastle;County Dublin|Dublin (South Dublin) 
+Ballyjamesduff;County Cavan|Cavan 
+Sixmilebridge;County Clare|Clare 
+Ballina, County Tipperary|Ballina;County Tipperary|Tipperary 
+Newtownmountkennedy;County Wicklow|Wicklow  
+Athboy;County Meath|Meath 
+Rathangan, County Kildare|Rathangan;County Kildare|Kildare 
+Callan, County Kilkenny|Callan;County Kilkenny|Kilkenny 
+Kingscourt;County Cavan|Cavan 
+Virginia, County Cavan|Virginia;County Cavan|Cavan 
+Prosperous, County Kildare|Prosperous;County Kildare|Kildare 
+Saggart;County Dublin|Dublin (South Dublin)
+Crosshaven;County Cork|Cork 
+Baltinglass;County Wicklow|Wicklow 
+Bunclody-Carrickduff;County Wexford|Wexford;County Carlow|Carlow 
+Clogherhead;County Louth|Louth 
+Castleconnell;County Limerick|Limerick 
+Bearna;County Galway|Galway 
+Balrothery;County Dublin|Dublin (Fingal) 
+Enniskerry;County Wicklow|Wicklow  
+Newport, County Tipperary|Newport;County Tipperary|Tipperary 
+Dunleer;County Louth|Louth 
+Newmarket-on-Fergus;County Clare|Clare 
+Tubbercurry (Tobercurry);County Sligo|Sligo 
+Edgeworthstown (Meathas Truim, Mostrim);County Longford|Longford 
+Ballivor;County Meath|Meath 
+Castlebridge;County Wexford|Wexford 
+Lifford;County Donegal|Donegal 
+Strandhill (Larass);County Sligo|Sligo 
+Ballymahon;County Longford|Longford 
+Cloyne;County Cork|Cork 
+Dunmore East;County Waterford|Waterford 
+Moycullen (Maigh Cuilinn);County Galway|Galway 
+Bunbeg-Derrybeg (An Bun Beag-Doiri Beaga);County Donegal|Donegal 
+Rathkeale;County Limerick|Limerick 
+Rosslare Strand (Rosslare);County Wexford|Wexford 
+Derrinturn;County Kildare|Kildare 
+Fethard, County Tipperary|Fethard;County Tipperary|Tipperary 
+Ballymote;County Sligo|Sligo 
+Rathcormac;County Cork|Cork 
+Portumna;County Galway|Galway 
+Rochfortbridge;County Westmeath|Westmeath 
+Ashford, County Wicklow|Ashford;County Wicklow|Wicklow 
+Termonfeckin;County Louth|Louth 
+Convoy, County Donegal|Convoy;County Donegal|Donegal 
+Ardnacrusha (village)|Ardnacrusha (Castlebank);County Clare|Clare 
+Castledermot;County Kildare|Kildare 
+Oldcastle, County Meath|Oldcastle;County Meath|Meath 
+Longwood, County Meath|Longwood;County Meath|Meath 
+Lanesborough-Ballyleague;County Longford|Longford;County Roscommon|Roscommon 
+Portrane;County Dublin|Dublin (Fingal) 
+Collooney (Coloony);County Sligo|Sligo 
+Aughrim, County Wicklow|Aughrim;County Wicklow|Wicklow 
+Ferns, County Wexford|Ferns;County Wexford|Wexford 
+Tullyallen, County Louth|Tullyallen;County Louth|Louth 
+Slane;County Meath|Meath 
+Ballisodare;County Sligo|Sligo 
+Manorhamilton;County Leitrim|Leitrim 
+Oughterard;County Galway|Galway 
+Foxford;County Mayo|Mayo 
+Killaloe, County Clare|Killaloe;County Clare|Clare 
+Kilpedder;County Wicklow|Wicklow 
+Caherconlish;County Limerick|Limerick 
+Castlemartyr;County Cork|Cork 
+Muff, County Donegal|Muff;County Donegal|Donegal 
+Murroe (Moroe);County Limerick|Limerick 
+Killucan and Rathwire;County Westmeath|Westmeath 
+Enniscrone (Inniscrone, Inishcrone);County Sligo|Sligo 
+Claregalway (Baile Chlair);County Galway|Galway 
+Ramelton;County Donegal|Donegal 
+Rathdowney (Rathdowny);County Laois|Laois 
+Kilbeggan;County Westmeath|Westmeath 
+Piltown;County Kilkenny|Kilkenny 
+Dungloe (An Clochan Liath);County Donegal|Donegal 
+Mooncoin;County Kilkenny|Kilkenny 
+Ferbane;County Offaly|Offaly 
+Watergrasshill;County Cork|Cork 
+Croom, County Limerick|Croom;County Limerick|Limerick 
+Raphoe;County Donegal|Donegal 
+Stradbally;County Laois|Laois 
+Askeaton;County Limerick|Limerick 
+Mullagh, County Cavan|Mullagh;County Cavan|Cavan 
+Kiltimagh;County Mayo|Mayo 
+Rosslare Harbour (or Ballygeary);County Wexford|Wexford 
+Dromiskin;County Louth|Louth 
+Adare;County Limerick|Limerick 
+Kentstown;County Meath|Meath 
+Ballinroad;County Waterford|Waterford 
+Carnew;County Wicklow|Wicklow 
+Ballyragget;County Kilkenny|Kilkenny 
+Belmullet (Beal an Mhuirthead);County Mayo|Mayo 
+Ballylinan;County Laois|Laois 
+Newtown Cunningham (Newtowncunningham);County Donegal|Donegal 
+Whitegate, County Cork|Whitegate;County Cork|Cork 
+Ballyconnell;County Cavan|Cavan 
+Crossmolina;County Mayo|Mayo 
+Killumney (Killumny);County Cork|Cork 
+Carlingford, County Louth|Carlingford;County Louth|Louth 
+Castlepollard;County Westmeath|Westmeath 
+Daingean (Philipstown);County Offaly|Offaly 
+Castlebellingham-Kilsaran;County Louth|Louth 
+Kilmacanogue (Kilmacanoge);County Wicklow|Wicklow 
+Kinlough;County Leitrim|Leitrim 
+Athgarvan;County Kildare|Kildare 
+Aghada-Farsid-Rostellan;County Cork|Cork 
+Johnstown, County Kildare|Johnstown;County Kildare|Kildare 
+Kilmeague (Kilmeage);County Kildare|Kildare 
+Newmarket, County Cork|Newmarket;County Cork|Cork 
+Kilworth;County Cork|Cork 
+Urlingford;County Kilkenny|Kilkenny 
+Milford, County Donegal|Milford;County Donegal|Donegal 
+Tinahely;County Wicklow|Wicklow 
+Borrisokane;County Tipperary|Tipperary 
+Tallow, County Waterford|Tallow;County Waterford|Waterford 
+Newcastle, County Wicklow|Newcastle;County Wicklow|Wicklow 
+Ardfinnan;County Tipperary|Tipperary 
+Buttevant;County Cork|Cork 
+Quin, County Clare|Quin;County Clare|Clare 
+Mohill;County Leitrim|Leitrim 
+Charlestown, County Mayo|Charlestown-Bellahy;County Mayo|Mayo;County Sligo|Sligo 
+Castletownbere;County Cork|Cork 
+Fountainstown;County Cork|Cork 
+Ballinamore;County Leitrim|Leitrim 
+Headford;County Galway|Galway 
+Caragh (Carragh);County Kildare|Kildare 
+Rathvilly;County Carlow|Carlow 
+Ballymore Eustace;County Kildare|Kildare 
+Dromahane (Drommahane);County Cork|Cork 
+Kilmacthomas (Kilmactomas);County Waterford|Waterford 
+Kilcormac (Frankford);County Offaly|Offaly 
+Glenties;County Donegal|Donegal 
+Coolaney;County Sligo|Sligo 
+Falcarragh (An Fal Carrach);County Donegal|Donegal 
+Drumshanbo;County Leitrim|Leitrim 
+Brownstown, County Kildare|Brownstown;County Kildare|Kildare 
+Allenwood;County Kildare|Kildare 
+Durrow, County Laois|Durrow;County Laois|Laois 
+Patrickswell;County Limerick|Limerick 
+Milltown, County Kerry|Milltown;County Kerry|Kerry 
+Drumlish;County Longford|Longford 
+Roundwood;County Wicklow|Wicklow 
+Summerhill, County Meath|Summerhill;County Meath|Meath 
+Dunlavin;County Wicklow|Wicklow 
+Leighlinbridge;County Carlow|Carlow 
+Rosses Point;County Sligo|Sligo 
+Greencastle, County Donegal|Greencastle;County Donegal|Donegal 
+Scarriff (Scariff);County Clare|Clare 
+Carraroe (An Cheathru Rua);County Galway|Galway 
+Collon;County Louth|Louth 
+Strokestown;County Roscommon|Roscommon 
+Knock, County Mayo|Knock;County Mayo|Mayo 
+Mucklagh, County Offaly|Mucklagh;County Offaly|Offaly 
+Kilsheelan;County Tipperary|Tipperary 
+Ballyclerahan;County Tipperary|Tipperary 
+Passage East;County Waterford|Waterford 
+Ardfert;County Kerry|Kerry 
+Paulstown;County Kilkenny|Kilkenny 
+Castlefin;County Donegal|Donegal 
+Mountbellew (Mount Bellew);County Galway|Galway 
+Bruff;County Limerick|Limerick 
+Kilfinane;County Limerick|Limerick 
+Rathmore, County Kerry|Rathmore;County Kerry|Kerry 
+Rhode, County Offaly|Rhode;County Offaly|Offaly 
+Milltown Malbay (Miltown Malbay);County Clare|Clare 
+Innishannon (Inishannon);County Cork|Cork 
+Ballinagh;County Cavan|Cavan 
+Belgooly;County Cork|Cork 
+Moneenroe;County Kilkenny|Kilkenny 
+Cappoquin;County Waterford|Waterford 
+Newtownforbes;County Longford|Longford 
+Doneraile;County Cork|Cork 
+Avoca, County Wicklow|Avoca;County Wicklow|Wicklow 
+Dromahair;County Leitrim|Leitrim 
+Gowran;County Kilkenny|Kilkenny 
+Lisdoonvarna;County Clare|Clare 
+Suncroft;County Kildare|Kildare 
+Ardara, County Donegal|Ardara;County Donegal|Donegal 
+Bennettsbridge;County Kilkenny|Kilkenny 
+Killeagh;County Cork|Cork 
+Louth, County Louth|Louth;County Louth|Louth 
+Holycross;County Tipperary|Tipperary 
+Killenaule;County Tipperary|Tipperary 
+Borrisoleigh;County Tipperary|Tipperary 
+Ballineen and Enniskean;County Cork|Cork 
+Delvin;County Westmeath|Westmeath 
+Emyvale;County Monaghan|Monaghan 
+Coill Dubh (Blackwood);County Kildare|Kildare 
+Donore, County Meath|Donore;County Meath|Meath 
+Corofin, County Clare|Corofin;County Clare|Clare 
+Ballytore;County Kildare|Kildare 
+Freshford, County Kilkenny|Freshford;County Kilkenny|Kilkenny 
+Kilmacrennan (Kilmacrennan);County Donegal|Donegal 
+Ballon, County Carlow|Ballon;County Carlow|Carlow 
+Cappamore;County Limerick|Limerick 
+Cratloe;County Clare|Clare 
+Tallanstown;County Louth|Louth 
+Balla, County Mayo|Balla;County Mayo|Mayo 
+Glenealy, County Wicklow|Glenealy;County Wicklow|Wicklow 
+Loughshinny;County Dublin|Dublin (Fingal)
+Robertstown, County Kildare|Robertstown;County Kildare|Kildare 
+Craughwell;County Galway|Galway 
+Pallaskenry;County Limerick|Limerick 
+Kildalkey (Kildalky);County Meath|Meath 
+Tulla;County Clare|Clare 
+Ballygar;County Galway|Galway 
+Schull (Skull);County Cork|Cork 
+Kilmurry, Wexford|Kilmurry;County Wexford|Wexford 
+Johnstownbridge;County Kildare|Kildare 
+Calverstown;County Kildare|Kildare 
+Ballycannan;County Clare|Clare 
+Borris, County Carlow|Borris;County Carlow|Carlow 
+Manorcunningham (Manor);County Donegal|Donegal 
+Lahinch;County Clare|Clare 
+Straffan;County Kildare|Kildare 
+Clonmellon;County Westmeath|Westmeath 
+Lixnaw;County Kerry|Kerry 
+Shinrone;County Offaly|Offaly 
+Carlanstown;County Meath|Meath 
+Clonee (Clonee Village);County Meath|Meath 
+Hospital, County Limerick|Hospital;County Limerick|Limerick 
+Ballyheigue;County Kerry|Kerry 
+Clonlara (Cloonlara);County Clare|Clare 
+Kilmacow (Killmacow);County Kilkenny|Kilkenny 
+Taghmon;County Wexford|Wexford 
+Killenard;County Laois|Laois 
+Ballyhaise;County Cavan|Cavan 
+Kinvara;County Galway|Galway 
+Julianstown-Whitecross, County Meath|Whitecross;County Meath|Meath 
+Newport, County Mayo|Newport;County Mayo|Mayo 
+Elphin, County Roscommon|Elphin;County Roscommon|Roscommon 
+Cloghan, County Offaly|Cloghan;County Offaly|Offaly 
+Killygordon (Killygordan);County Donegal|Donegal 
+Hacketstown;County Carlow|Carlow 
+Kilrane;County Wexford|Wexford 
+Riverstick;County Cork|Cork 
+Pallasgreen (Pallas Grean);County Limerick|Limerick 
+Kilmessan;County Meath|Meath 
+Knockbridge;County Louth|Louth 
+St Johnston;County Donegal|Donegal 
+Keel, County Mayo|Keel-Dooagh;County Mayo|Mayo 
+Kildrum, County Donegal|Kildrum;County Donegal|Donegal 
+Grange, County Sligo|Grange;County Sligo|Sligo 
+Dunmore, County Galway|Dunmore;County Galway|Galway 
+Glin, County Limerick|Glin;County Limerick|Limerick 
+Killala;County Mayo|Mayo 
+Whitechurch, County Cork|Whitechurch;County Cork|Cork 
+Fahan;County Donegal|Donegal 
+Grenagh;County Cork|Cork 
+Aherla (Rathard);County Cork|Cork 
+Piercetown (Piercestown);County Wexford|Wexford 
+Tarbert, County Kerry|Tarbert;County Kerry|Kerry 
+Corofin, County Galway|Corofin (Corrofin);County Galway|Galway 
+Dromcolliher (Drumcollogher);County Limerick|Limerick 
+Two-Mile Borris (Twomileborris);County Tipperary|Tipperary 
+Glanworth;County Cork|Cork 
+Rivermeade;County Dublin|Dublin (Fingal)
+Foynes;County Limerick|Limerick 
+Bruree;County Limerick|Limerick 
+Ballygarvan;County Cork|Cork 
+Rosscarbery (Roscarbery);County Cork|Cork 
+Ballyduff, County Kerry|Ballyduff;County Kerry|Kerry 
+Shercock;County Cavan|Cavan 
+Ballingarry, County Limerick|Ballingarry;County Limerick|Limerick 
+Fenit;County Kerry|Kerry 
+Roosky (Rooskey);County Roscommon|Roscommon;County Leitrim|Leitrim 
+Courtmacsherry;County Cork|Cork 
+Kilkishen;County Clare|Clare 
+Clonaslee;County Laois|Laois 
+Rathmullan (Rathmullen);County Donegal|Donegal 
+Cloughjordan (Cloghjordan);County Tipperary|Tipperary 
+Churchtown, County Cork|Churchtown;County Cork|Cork 
+Doon, County Limerick|Doon;County Limerick|Limerick 
+Tyrrellspass;County Westmeath|Westmeath 
+Lackaghbeg (Lackagh, Lacagh);County Galway|Galway 
+Moylough;County Galway|Galway 
+Omeath;County Louth|Louth 
+Ballycanew;County Wexford|Wexford 
+Glenamaddy;County Galway|Galway 
+Gormanston, County Meath|Gormanston;County Meath|Meath 
+Ring, County Waterford|Ring (An Rinn);County Waterford|Waterford 
+Carrignavar;County Cork|Cork 
+Slieverue (Slieveroe);County Kilkenny|Kilkenny 
+Keenagh (Kenagh);County Longford|Longford 
+Bridgend, County Donegal|Bridgend (Bridge End);County Donegal|Donegal 
+Clogheen, County Tipperary|Clogheen;County Tipperary|Tipperary 
+Firies (''Fieries'');County Kerry|Kerry 
+Leitrim, County Leitrim|Leitrim;County Leitrim|Leitrim 
+Cliffoney;County Sligo|Sligo 
+Mullinahone;County Tipperary|Tipperary 
+Ballyoulster;County Kildare|Kildare 
+Ringaskiddy (Loughbeg);County Cork|Cork 
+The Ballagh;County Wexford|Wexford 
+Ballycotton;County Cork|Cork 
+Borris-in-Ossory;County Laois|Laois 
+Bellanode;County Monaghan|Monaghan 
+Johnstown, County Kilkenny|Johnstown;County Kilkenny|Kilkenny 
+Clonmany;County Donegal|Donegal 
+Conna;County Cork|Cork 
+Drimoleague;County Cork|Cork 
+Mountcharles;County Donegal|Donegal 
+Portroe;County Tipperary|Tipperary 
+Crusheen;County Clare|Clare 
+Burnfoot, County Donegal|Burnfoot;County Donegal|Donegal 
+Grahormac;County Wexford|Wexford 
+Waterville, County Kerry|Waterville-Spunkane;County Kerry|Kerry 
+Ballymurn;County Wexford|Wexford 
+Ballyliffin;County Donegal|Donegal 
+Barntown;County Wexford|Wexford 
+Spa, County Kerry|Spa;County Kerry|Kerry 
+Coolagary;County Offaly|Offaly 
+Tinure;County Louth|Louth 
+Ballyroan, County Laois|Ballyroan;County Laois|Laois 
+Glen, County Limerick|Glen;County Limerick|Limerick 
+Oldtown, Dublin|Oldtown;County Dublin|Dublin (Fingal)
+Ladytown;County Kildare|Kildare 
+Naul, Dublin|Naul;County Dublin|Dublin (Fingal)
+Ballincar;County Sligo|Sligo 
+Knockglass;County Cork|Cork 
+Meenlaragh (Min Larach);County Donegal|Donegal 
+Gweedore (Bun na Leaca);County Donegal|Donegal 
+Ardmore, County Waterford|Ardmore;County Waterford|Waterford 
+Ballinakill;County Laois|Laois 
+Castletownroche;County Cork|Cork 
+Ballymore, County Westmeath|Ballymore;County Westmeath|Westmeath 
+Garristown;County Dublin|Dublin (Fingal)
+Dromod (Drumod);County Leitrim|Leitrim 
+Coachford;County Cork|Cork 
+Kilmihil (Kilmihill);County Clare|Clare 
+Ballymakeera (Baile Mhic ire);County Cork|Cork 
+Clonbulloge (Clonbullogue);County Offaly|Offaly 
+Louisburgh;County Mayo|Mayo 
+Ballinagar;County Offaly|Offaly 
+Frenchpark;County Roscommon|Roscommon 
+Stradbally, County Waterford|Stradbally;County Waterford|Waterford 
+Ballylongford;County Kerry|Kerry 
+Bweeng;County Cork|Cork 
+Castletown, County Laois|Castletown;County Laois|Laois 
+Shrule;County Mayo|Mayo 
+Tinryland (Tinriland);County Carlow|Carlow 
+Crocknamurleog (Cnoc na Muirleog);County Donegal|Donegal 
+Shanagarry;County Cork|Cork 
+Abbeydorney;County Kerry|Kerry 
+Ballyhooly;County Cork|Cork 
+Campile;County Wexford|Wexford 
+Creeslough;County Donegal|Donegal 
+Littleton, County Tipperary|Littleton;County Tipperary|Tipperary 
+Kildimo;County Limerick|Limerick 
+Kilberry, County Kildare|Kilberry;County Kildare|Kildare 
+Newtown, County Cork|Newtown;County Cork|Cork 
+Moyvane (Newtownsandes);County Kerry|Kerry 
+Kilmore Quay;County Wexford|Wexford 
+Camolin;County Wexford|Wexford 
+Ballinabrannagh;County Carlow|Carlow 
+Clarinbridge;County Galway|Galway 
+Nurney, County Kildare|Nurney;County Kildare|Kildare 
+Carrowkeel, County Galway|Carrowkeel;County Donegal|Donegal 
+Athea;County Limerick|Limerick 
+Bridgetown, County Wexford|Bridgetown;County Wexford|Wexford 
+Oylegate (Oilgate);County Wexford|Wexford 
+Carrigallen;County Leitrim|Leitrim 
+Fennagh, County Carlow|Fennagh;County Carlow|Carlow 
+Kilnaleck;County Cavan|Cavan 
+O'Brien's Bridge-Montpelier, County Limerick|Montpelier (O'Briensbridge);County Clare|Clare;County Limerick|Limerick 
+Cloonboo (Cluain Bu);County Galway|Galway 
+Arvagh (Arva);County Cavan|Cavan 
+Kildysart (Killadysert);County Clare|Clare 
+Multyfarnham (Multyfarnam);County Westmeath|Westmeath 
+Dunkineely;County Donegal|Donegal 
+Geashill;County Offaly|Offaly 
+Riverstown;County Sligo|Sligo 
+Saleen;County Cork|Cork 
+Timoleague;County Cork|Cork 
+Kilkelly;County Mayo|Mayo 
+Coolgreany;County Wexford|Wexford 
+Drumconrath (Drumcondra);County Meath|Meath 
+Scotstown;County Monaghan|Monaghan 
+Cappawhite;County Tipperary|Tipperary 
+Kilcummin, County Kerry|Kilcummin;County Kerry|Kerry 
+Fiddown;County Kilkenny|Kilkenny 
+Milltown, County Kildare|Milltown;County Kildare|Kildare 
+Killeshandra (Killashandra);County Cavan|Cavan 
+Balbradagh;County Meath|Meath 
+Murrintown (Murntown);County Wexford|Wexford 
+Smithborough (Smithboro);County Monaghan|Monaghan 
+Goresbridge;County Kilkenny|Kilkenny 
+Kinnitty;County Offaly|Offaly 
+Clogh, County Kilkenny|Clogh-Chatsworth, County Kilkenny|Chatsworth;County Kilkenny|Kilkenny 
+Nobber;County Meath|Meath 
+Lawcus;County Kilkenny|Kilkenny 
+Crossbarry;County Cork|Cork 
+Ballyboghil;County Dublin|Dublin (Fingal)
+Ranafast (Rann na Feirste, Rannafast, Rinnafarset);County Donegal|Donegal 
+Palatine, County Carlow|Palatine;County Carlow|Carlow 
+Tievebane;County Donegal|Donegal 
+Ballindine;County Mayo|Mayo 
+Cloughduv (Cloghduff);County Cork|Cork 
+Bansha;County Tipperary|Tipperary 
+Carney, County Sligo|Carney;County Sligo|Sligo 
+Gorteen (Gurteen);County Sligo|Sligo 
+Emly (Emlybeg);County Tipperary|Tipperary 
+Glaslough (Glasslough);County Monaghan|Monaghan 
+Baltimore, County Cork|Baltimore;County Cork|Cork 
+Dripsey (Model Village);County Cork|Cork 
+Narraghmore;County Kildare|Kildare 
+Aglish;County Waterford|Waterford 
+Knockraha;County Cork|Cork 
+Shillelagh, County Wicklow|Shillelagh;County Wicklow|Wicklow 
+Laragh, County Wicklow|Laragh;County Wicklow|Wicklow 
+Clonard, County Meath|Clonard;County Meath|Meath 
+Loch an Iuir (Loughanure);County Donegal|Donegal 
+Shanbally;County Cork|Cork 
+Carrigans, County Donegal|Carrigans;County Donegal|Donegal 
+Collinstown;County Westmeath|Westmeath 
+Farran;County Cork|Cork 
+Killimor;County Galway|Galway 
+Cheekpoint;County Waterford|Waterford 
+Durrus;County Cork|Cork 
+Ballysax;County Kildare|Kildare 
+Boherbue;County Cork|Cork 
+Clondulane;County Cork|Cork 
+Ballybrittas;County Laois|Laois 
+Ballylanders;County Limerick|Limerick 
+Newbliss;County Monaghan|Monaghan 
+Clonroche;County Wexford|Wexford 
+Duncannon;County Wexford|Wexford 
+Newcastle, County Tipperary|Newcastle;County Tipperary|Tipperary 
+Mogeely;County Cork|Cork 
+Banteer;County Cork|Cork 
+Burtonport (Ailt an Chorrain);County Donegal|Donegal 
+Jenkinstown, County Louth|Jenkinstown;County Louth|Louth 
+Templetuohy;County Tipperary|Tipperary 
+Churchbay;County Cork|Cork 
+Ballygawley, County Sligo|Ballygawley;County Sligo|Sligo 
+Fethard-on-Sea;County Wexford|Wexford 
+Ballintogher;County Sligo|Sligo 
+Ballyporeen;County Tipperary|Tipperary 
+Dunfanaghy;County Donegal|Donegal 
+Kilmainham, Couty Meath|Kilmainham;County Meath|Meath 
+Ballysimon;County Wexford|Wexford 
+Oola;County Limerick|Limerick 
+Toomevara (Toomyvara);County Tipperary|Tipperary 
+Moneygall;County Offaly|Offaly 
+Rockcorry;County Monaghan|Monaghan 
+Ballinalee;County Longford|Longford 
+Furbo, County Galway|Furbo (Furbogh, Na Forbacha);County Galway|Galway 
+Lissycasey;County Clare|Clare 
+Knockcroghery;County Roscommon|Roscommon 
+Danescastle;County Wexford|Wexford 
+Gortnahoe (Gortnahoo);County Tipperary|Tipperary 
+Rathtoe;County Carlow|Carlow 
+Myshall;County Carlow|Carlow 
+Ballinaclash;County Wicklow|Wicklow 
+Kildorrery;County Cork|Cork 
+Ballinlough, County Roscommon|Ballinlough;County Roscommon|Roscommon 
+Annascaul;County Kerry|Kerry 
+Kildangan;County Kildare|Kildare 
+Kilmeade;County Kildare|Kildare 
+Fedamore;County Limerick|Limerick 
+Rathmolyon;County Meath|Meath 
+Ardskeagh;County Clare|Clare 
+Kilronan (Cill Ronain);County Galway|Galway 
+Monivea;County Galway|Galway 
+Newtown, County Tipperary|Newtown;County Tipperary|Tipperary 
+Broadford, County Limerick|Broadford;County Limerick|Limerick 
+Rosscahill;County Galway|Galway 
+Shanagolden, County Limerick|Shanagolden;County Limerick|Limerick 
+Ballingarry, South Tipperary|Ballingarry;County Tipperary|Tipperary 
+Bangor Erris;County Mayo|Mayo 
+Castle Ellis;County Wexford|Wexford 
+Castlelyons;County Cork|Cork 
+Kilmurry-Negaul|Kilmurry;County Clare|Clare 
+Ardagh, County Limerick|Ardagh;County Limerick|Limerick 
+Silvermines;County Tipperary|Tipperary 
+Ballynacargy;County Westmeath|Westmeath 
+Mungret;County Limerick|Limerick 
+Ballycullane;County Wexford|Wexford 
+Cloonfad;County Roscommon|Roscommon 
+Crookstown;County Cork|Cork 
+Glenbeigh (Glenbei);County Kerry|Kerry 
+Butlersbridge;County Cavan|Cavan 
+Carrick, Co. Donegal|Carrick (An Charraig);County Donegal|Donegal 
+Woodford, County Galway|Woodford;County Galway|Galway 
+Kells, County Kilkenny|Kells;County Kilkenny|Kilkenny 
+Kill, County Waterford|Kill;County Waterford|Waterford 
+Manor Kilbride;County Wicklow|Wicklow 
+Clongeen;County Wexford|Wexford 
+Villierstown;County Waterford|Waterford 
+Clarina;County Limerick|Limerick 
+Puckane (Puckaun);County Tipperary|Tipperary 
+Doonbeg;County Clare|Clare 
+Turlough, County Mayo|Turlough;County Mayo|Mayo 
+Ballydehob;County Cork|Cork 
+Dromina;County Cork|Cork 
+Golden, County Tipperary|Golden;County Tipperary|Tipperary 
+Glencullen;County Dublin|Dublin (Dun Laoghaire-Rathdown)
+Inniskeen (Inishkeen);County Monaghan|Monaghan 
+Knocklong;County Limerick|Limerick 
+Ballyclogh, County Cork|Ballyclogh;County Cork|Cork 
+Causeway, County Kerry|Causeway;County Kerry|Kerry 
+Culdaff;County Donegal|Donegal 
+Eyrecourt;County Galway|Galway 
+Kilcloon;County Meath|Meath 
+Ballyhogue;County Wexford|Wexford 
+Inistioge;County Kilkenny|Kilkenny 
+Mullinavat;County Kilkenny|Kilkenny 
+Adamstown, County Wexford|Adamstown;County Wexford|Wexford 
+Ballyvaughan;County Clare|Clare 
+Sneem;County Kerry|Kerry 
+Killavullen;County Cork|Cork 
+Oulart;County Wexford|Wexford 
+Gneeveguilla (Gneevgullia);County Kerry|Kerry 
+Annagry (Anagaire);County Donegal|Donegal 
+Clashmore;County Waterford|Waterford 
+Drumkeeran;County Leitrim|Leitrim 
+Union Hall, County Cork|Union Hall (Unionhall);County Cork|Cork 
+Milford, County Cork|Milford;County Cork|Cork 
+Pollagh (Pullough);County Offaly|Offaly 
+Spiddal (An Spideal);County Galway|Galway 
+Kilcar (Cill Charthaigh);County Donegal|Donegal 
+Drumsna;County Leitrim|Leitrim 
+Castlemagner;County Cork|Cork 
+Newtown, County Laois|Newtown;County Laois|Laois 
+Clonegal (Clonegall);County Carlow|Carlow;County Wexford|Wexford 
+Easky;County Sligo|Sligo 
+Emo, County Laois|Emo;County Laois|Laois 
+Roundstone, County Galway|Roundstone;County Galway|Galway 
+Baylin;County Westmeath|Westmeath 
+Castlegregory;County Kerry|Kerry 
+Mulranny;County Mayo|Mayo 
+Athleague;County Roscommon|Roscommon 
+Redcross;County Wicklow|Wicklow 
+Leap, County Cork|Leap;County Cork|Cork 
+Pettigo;County Donegal|Donegal;County Fermanagh|Fermanagh 
+Ballingeary (Beal atha an Ghaorthaidh);County Cork|Cork 
+Galbally, County Limerick|Galbally;County Limerick|Limerick 
+Annaghdown;County Galway|Galway 
+Ballycastle, County Mayo|Ballycastle;County Mayo|Mayo 
+Barndarrig;County Wicklow|Wicklow 
+Liscarroll;County Cork|Cork 
+Blacklion;County Cavan|Cavan 
+Beaufort, County Kerry|Beaufort;County Kerry|Kerry 
+Carrigart (Carraig Airt);County Donegal|Donegal 
+Tullaghan;County Leitrim|Leitrim 
+Quigley's Point (''Quigleys Point'');County Donegal|Donegal 
+Raharney (Raharny);County Westmeath|Westmeath 
+Kilmoganny;County Kilkenny|Kilkenny 
+Kilteel;County Kildare|Kildare 
+Belcarra, County Mayo|Belcarra;County Mayo|Mayo 
+Croagh;County Limerick|Limerick 
+Beaulieu, County Louth|Beaulieu;County Louth|Louth 
+Kernanstown;County Carlow|Carlow 
+Dundrum, County Tipperary|Dundrum;County Tipperary|Tipperary 
+Kilfenora;County Clare|Clare 
+Ballycumber;County Offaly|Offaly 
+Bunratty;County Clare|Clare 
+Dromore West;County Sligo|Sligo 
+Killinierin;County Wexford|Wexford 
+Stratford, County Wicklow|Stratford;County Wicklow|Wicklow 
+Mountcollins;County Limerick|Limerick 
+Grangemore;County Kildare|Kildare 
+Knightstown, County Kerry|Knightstown;County Kerry|Kerry 
+Kilteely;County Limerick|Limerick 
+Kinsaley;County Dublin|Dublin (Fingal) 
+The Swan, County Laois|The Swan;County Laois|Laois 
+Glencolmcille (Glencolumbkille, Gleann Cholm Cille);County Donegal|Donegal 
+Swanlinbar;County Cavan|Cavan 
+Brosna, County Kerry|Brosna;County Kerry|Kerry 
+Ballintra;County Donegal|Donegal 
+Belmont, County Offaly|Belmont;County Offaly|Offaly 
+Bracknagh;County Offaly|Offaly 
+Duagh;County Kerry|Kerry 
+Dunhill, County Waterford|Dunhill;County Waterford|Waterford 
+Gleneely;County Donegal|Donegal 
+Killashee;County Longford|Longford 
+Ballyhack, County Wexford|Ballyhack;County Wexford|Wexford 
+Ballydesmond;County Cork|Cork 
+Lemybrien;County Waterford|Waterford 
+Shannonbridge;County Offaly|Offaly 
+Ahascragh;County Galway|Galway 
+Ballyfarnan;County Roscommon|Roscommon 
+Monard, County Cork|Monard;County Tipperary|Tipperary 
+Inagh;County Clare|Clare 
+Loughglynn (Loughglinn);County Roscommon|Roscommon 
+Bridebridge;County Cork|Cork 
+Bree, County Wexford|Bree;County Wexford|Wexford 
+Halfway, County Cork|Halfway;County Cork|Cork 
+Knocknagree;County Cork|Cork 
+Legan, County Longford|Legan;County Longford|Longford 
+Milltown, County Galway|Milltown;County Galway|Galway 
+Glassan;County Westmeath|Westmeath 
+Rathcoole, County Cork|Rathcoole;County Cork|Cork 
+Dunderrow;County Cork|Cork 
+Gortahork (Gort an Choirce);County Donegal|Donegal 
+Killeigh;County Offaly|Offaly 
+Laghey (Laghy);County Donegal|Donegal 
+Errill (Erril);County Laois|Laois 
+Kilbrittain (Killbrittain);County Cork|Cork 
+Tulsk;County Roscommon|Roscommon 
+Ballinspittle;County Cork|Cork 
+Kildavin;County Carlow|Carlow 
+Kilmeaden;County Waterford|Waterford 
+Letterfrack;County Galway|Galway 
+Ballyroe;County Kildare|Kildare 
+Ballyagran;County Limerick|Limerick 
+Clonygowan;County Offaly|Offaly 
+Ballinameen;County Roscommon|Roscommon 
+Clondrohid;County Cork|Cork 
+Clontuskert;County Roscommon|Roscommon 
+Castlemaine, County Kerry|Castlemaine;County Kerry|Kerry 
+Castletownshend (Castletownsend);County Cork|Cork 
+Donard;County Wicklow|Wicklow 
+Keadue (Keadew);County Roscommon|Roscommon 
+Lisronagh;County Tipperary|Tipperary 
+Dunderry;County Meath|Meath 
+Bonniconlon, County Mayo|Bonniconlon (Bunnyconnelan West);County Mayo|Mayo 
+Newbawn;County Wexford|Wexford 
+Kilgarvan;County Kerry|Kerry 
+Quilty, County Clare|Quilty;County Clare|Clare 
+Annagassan;County Louth|Louth 
+Carrigkerry;County Limerick|Limerick 
+Crossakeel;County Meath|Meath 
+Cong, County Mayo|Cong;County Mayo|Mayo;County Galway|Galway 
+Reardnogy (Rearcross);County Tipperary|Tipperary 
+Whitegate, County Clare|Whitegate;County Clare|Clare 
+Kilbrin;County Cork|Cork 
+Ballyforan;County Roscommon|Roscommon 
+Brittas, Dublin|Brittas;County Dublin|Dublin (South Dublin)
+Ballyhahill;County Limerick|Limerick 
+Bohola;County Mayo|Mayo 
+Rosegreen;County Tipperary|Tipperary 
+Clontibret;County Monaghan|Monaghan 
+Kilmaine (Kilmain);County Mayo|Mayo 
+Killurin, County Offaly|Killurin;County Offaly|Offaly 
+Lough Gowna;County Cavan|Cavan 
+Bellavary;County Mayo|Mayo 
+Inchigeelagh;County Cork|Cork 
+Shanballymore;County Cork|Cork 
+Threemilehouse (Three Mile House, Cabragh);County Monaghan|Monaghan 
+Lahardane;County Mayo|Mayo 
+Williamstown, County Galway|Williamstown;County Galway|Galway 
+Ballynonty;County Tipperary|Tipperary 
+Mountshannon;County Clare|Clare 
+The Commons, County Tipperary|The Commons;County Tipperary|Tipperary 
+Tournafulla (''Toornafulla'');County Limerick|Limerick 
+Drumkeen;County Donegal|Donegal 
+Castletown Geoghegan;County Westmeath|Westmeath 
+Aughnacliffe;County Longford|Longford 
+Donaskeigh;County Tipperary|Tipperary 
+Ballynoe, Kinnatalloon|Ballynoe;County Cork|Cork 
+Maddenstown;County Kildare|Kildare 
+Oram, County Monaghan|Oram;County Monaghan|Monaghan 
+Coolboy;County Wicklow|Wicklow 
+Knocktopher;County Kilkenny|Kilkenny 
+Bellanagare;County Roscommon|Roscommon 
+Knockananna;County Wicklow|Wicklow 
+Kilmyshall;County Wexford|Wexford 
+Ballycolla;County Laois|Laois 
+Ballinalack;County Westmeath|Westmeath 
+Ballintober, County Roscommon|Ballintober;County Roscommon|Roscommon 
+Ballyhale;County Kilkenny|Kilkenny 
+Drangan;County Tipperary|Tipperary 
+Arthurstown;County Wexford|Wexford 
+Lyre, County Cork|Lyre;County Cork|Cork 
+Ballymacarbry;County Waterford|Waterford 
+Liscannor;County Clare|Clare 
+Ballymacoda;County Cork|Cork 
+Mullaghmore, County Sligo|Mullaghmore;County Sligo|Sligo 
+Kilflynn;County Kerry|Kerry 
+Ballyedmond;County Wexford|Wexford 
+Cromane;County Kerry|Kerry 
+Dromineer;County Tipperary|Tipperary 
+Feakle;County Clare|Clare 
+Portmagee;County Kerry|Kerry 
+Malin, County Donegal|Malin;County Donegal|Donegal 
+Baltray;County Louth|Louth 
+Kilcrohane;County Cork|Cork 
+Balreask;County Meath|Meath 
+Coonagh, Limerick City|Coonagh;County Limerick|Limerick
